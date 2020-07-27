@@ -1,4 +1,5 @@
-Hey wave, I'm Ha Quoc Viet!
+
+                                                          **#Hi, :wave: I'm Ha Quoc Viet! **
 A passionate front-end developer from Brazil, I venture into the Backend with NodeJs
 juanpabllo
 
