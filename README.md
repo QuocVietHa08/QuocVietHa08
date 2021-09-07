@@ -4,6 +4,6 @@
  **#Hi, :wave: I'm Ha Quoc Viet!**<br>
 **A passionate front-end developer from VietNam<br>**
 :office: Building Front End page<br>
-:brain: Learning React JS,NodeJs,Java and Ui/UX design<br>
+:brain: Learning React JS,Vue JS,NodeJs,PHP and Ui/UX design<br>
 :heart: Loving [ReactJS](https://reactjs.org/), [styled-component](https://styled-components.com/)
   
